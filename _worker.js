@@ -183,7 +183,7 @@ async function วเลสOverWSHandler(request) {
 			const {
 				hasError,
 				message,
-				portRemote = 443,80,8880,2097,22,143,
+				portRemote = 8443,
 				addressRemote = '',
 				rawDataIndex,
 				วเลสVersion = new Uint8Array([0, 0]),
